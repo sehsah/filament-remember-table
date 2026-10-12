@@ -13,7 +13,7 @@ Let your users save the way they like a Filament table (filters, search, sorting
 - **Share** a view with every user of the panel
 - Shareable links: the active view lives in the URL (`?view=12`)
 - Multi-tenancy aware
-- English and Arabic translations, RTL friendly
+- English, Arabic, Azerbaijani, Turkish, Russian, Ukrainian, Uzbek, German, French, Spanish, Portuguese (Brazil), Dutch, Italian, Persian, Hindi, Indonesian, Malay, Polish and Chinese (Simplified) translations, RTL friendly for Arabic, Persian and Azerbaijani contexts where applicable
 
 ## Requirements
 
